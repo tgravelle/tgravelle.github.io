@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bio
+permalink: /bio
 ---
 I am a survey scientist, data scientist, and political scientist with interests across the fields of public opinion, political behaviour, international relations, and quantitative methods. My substantive interests are public opinion and foreign policy, comparative public opinion and political behaviour (focusing on Canada, the United States, Europe, and more recently Australia), and the spatial and geographic dimensions of policy attitudes. I am also broadly interested in applications of data science in the social sciences, policy research, and business.
 
