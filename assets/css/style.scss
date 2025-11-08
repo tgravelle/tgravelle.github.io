@@ -1,16 +1,29 @@
 ---
 ---
+
 /* Slate-style colors */
 body {
-  background-color: #2F4F4F;
-  color: #F5F5F5;
+  background-color: #2F4F4F; /* dark slate gray */
+  color: #F5F5F5;            /* light text */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #87CEEB;
+  color: #87CEEB;            /* light blue links */
+  text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
+/* Hide page title and footer */
 .page-title,
 .site-footer {
   display: none;
+}
+
+/* Optional: style headers in content */
+h1, h2, h3, h4, h5, h6 {
+  color: #F5F5F5;
 }
