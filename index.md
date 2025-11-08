@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<img src="/assets/headshot.jpg" alt="Profile Photo" class="profile-pic">
+<img src="/assets/headshot.jpg" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; float: right; margin-left: 20px; margin-bottom: 20px;">
 Welcome to my academic research site. I am a survey scientist and data scientist at [Vox Pop Labs](https://www.voxpoplabs.com). I am also affiliated with the [Laurier Institute for the Study of Public Opinion and Policy (LISPOP)](https://lispop.ca) at [Wilfrid Laurier University](https://www.wlu.ca). You can email me [here](mailto:tgravelle@wlu.ca).
 
 I was previously Senior Manager, Research Science at [SurveyMonkey](https://www.surveymonkey.com) and earlier in my career a Senior Consultant at [Gallup](https://www.gallup.com).
