@@ -17,7 +17,7 @@ plugins:
 
 # Navigation menu (top-right)
 navigation:
-  - title: "Home"
+  - title: "About me"
     url: "/"
   - title: "Bio"
     url: "/bio"
