@@ -1,0 +1,11 @@
+title: "Timothy B. Gravelle"
+description: "Academic profile page"
+theme: minima
+author:
+  name: "Timothy B. Gravelle"
+  email: "tgravelle@wlu.ca"
+
+# Navigation links
+header_pages:
+  - index.md
+  - bio.md
