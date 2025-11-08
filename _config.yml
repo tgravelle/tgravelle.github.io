@@ -4,17 +4,20 @@ author:
   name: "Timothy B. Gravelle"
   email: "tgravelle@wlu.ca"
 
-# Use a supported theme
 theme: minima
-
-# Hide automatic page titles
 show_title: false
-
-# Site URLs
-baseurl: "" 
+baseurl: ""
 url: "https://tgravelle.github.io"
 
-# Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+# Navigation links (appears on top-right)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Bio"
+    url: "/bio"
+  - title: "CV"
+    url: "/assets/CV-Tim Gravelle.pdf"
