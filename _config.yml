@@ -1,14 +1,18 @@
 title: "Timothy B. Gravelle"
 description: "Academic profile page"
-theme: minima
 author:
   name: "Timothy B. Gravelle"
   email: "tgravelle@wlu.ca"
-  
-baseurl: "" #
-url: "https://tgravelle.github.io"
 
+# Use a supported theme
+theme: minima
+
+# Hide automatic page titles
 show_title: false
+
+# Site URLs
+baseurl: "" 
+url: "https://tgravelle.github.io"
 
 # Build settings
 markdown: kramdown
