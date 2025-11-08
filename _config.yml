@@ -1,5 +1,5 @@
+# _config.yml
 title: "Timothy B. Gravelle"
-
 description: "Academic profile page"
 author:
   name: "Timothy B. Gravelle"
@@ -7,13 +7,15 @@ author:
 
 theme: minima
 show_title: false
-baseurl: ""
+
+baseurl: "" 
 url: "https://tgravelle.github.io"
 
 markdown: kramdown
 plugins:
   - jekyll-feed
 
+# Navigation menu (top-right)
 navigation:
   - title: "Home"
     url: "/"
