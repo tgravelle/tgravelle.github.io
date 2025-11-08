@@ -2,9 +2,6 @@
 layout: page
 title: Bio
 ---
-
-### Biography
-
 I am a survey scientist, data scientist, and political scientist with interests across the fields of public opinion, political behaviour, international relations, and quantitative methods. My substantive interests are public opinion and foreign policy, comparative public opinion and political behaviour (focusing on Canada, the United States, Europe, and more recently Australia), and the spatial and geographic dimensions of policy attitudes. I am also broadly interested in applications of data science in the social sciences, policy research, and business.
 
 I joined [Vox Pop Labs](https://www.voxpoplabs.com) as Director of Research in 2025. I am affiliated with the [Laurier Institute for the Study of Public Opinion and Policy (LISPOP)](https://lispop.ca) at [Wilfrid Laurier University](https://www.wlu.ca), where I am an Adjunct Professor and a member of the board. I was previously Senior Manager, Research Science at [SurveyMonkey](https://www.surveymonkey.com), and earlier in my career a Senior Consultant at [Gallup](https://www.gallup.com) where I served concurrently as Regional Director, North America for the [Gallup World Poll](https://www.gallup.com/178667/gallup-world-poll-work.aspx) and Statistician for the [Gallup Panel](https://www.gallup.com/174158/gallup-panel-methodology.aspx).
