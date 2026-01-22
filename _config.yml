@@ -1,10 +1,10 @@
 title: "Timothy B. Gravelle"
-description: "Academic profile page"
+description: "Survey scientist and data scientist specializing in public opinion, political behaviour, and survey methodology"
 author:
   name: "Timothy B. Gravelle"
   email: "tgravelle@wlu.ca"
 theme: minima
-baseurl: "" 
+baseurl: ""
 url: "https://tgravelle.github.io"
 markdown: kramdown
 plugins:
@@ -12,3 +12,10 @@ plugins:
 header_pages:
   - index.md
   - bio.md
+social_links:
+  - platform: github
+    user_url: https://github.com/tgravelle
+  - platform: linkedin
+    user_url: https://www.linkedin.com/in/timgravelle/
+  - platform: google_scholar
+    user_url: https://scholar.google.ca/citations?user=_PY91ngAAAAJ
