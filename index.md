@@ -8,7 +8,7 @@ permalink: /
 <img src="/assets/headshot.jpg" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; float: right; margin-left: 20px; margin-bottom: 20px;">
 Welcome to my academic research site. I am a survey scientist and data scientist at [Vox Pop Labs](https://www.voxpoplabs.com). I am also affiliated with the [Laurier Institute for the Study of Public Opinion and Policy (LISPOP)](https://lispop.ca) at [Wilfrid Laurier University](https://www.wlu.ca). You can email me [here](mailto:tgravelle@wlu.ca).
 
-I was previously Senior Manager, Research Science at [SurveyMonkey](https://www.surveymonkey.com) and earlier in my career a Senior Consultant at [Gallup](https://www.gallup.com).
+I was previously Senior Manager, Research Science at [SurveyMonkey](https://www.surveymonkey.com). I have also held data science roles with management consulting firms and fintech companies. Earlier in my career, I was a Senior Consultant at [Gallup](https://www.gallup.com).
 
 My previous academic positions include Research Social Scientist (Senior Research Fellow) in the [Institute for Social Science Research](https://issr.uq.edu.au) at the [University of Queensland](https://www.uq.edu.au), and before that, a Lecturer in the [School of Social and Political Sciences](http://arts.unimelb.edu.au/ssps) at the [University of Melbourne](https://www.unimelb.edu.au), and a Visiting Fellow at the [School of Government and Public Policy](https://www.strath.ac.uk/humanities/governmentpublicpolicy/) at the [University of Strathclyde](https://www.strath.ac.uk).
 
