@@ -18,7 +18,6 @@ My work has been published in several leading journals, including the [*American
 
 You can also find me on [Google Scholar](https://scholar.google.ca/citations?user=_PY91ngAAAAJ), [LinkedIn](https://www.linkedin.com/in/timgravelle/), and [GitHub](https://github.com/tgravelle). Replication materials for my recently published research are available on [OSF.io](https://osf.io/8bxr2/).
 
-```{=html}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -114,4 +113,3 @@ You can also find me on [Google Scholar](https://scholar.google.ca/citations?use
   ]
 }
 </script>
-```
