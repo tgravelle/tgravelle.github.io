@@ -2,11 +2,11 @@
 layout: page-notitle
 title: Home
 seo_title: Timothy B. Gravelle
-description: Timothy B. Gravelle is a survey scientist and data scientist.
+description: Timothy B. Gravelle is a data scientist, survey scientist and research leader.
 permalink: /
 ---
 
-<img src="/assets/headshot.jpg" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; float: right; margin-left: 20px; margin-bottom: 20px;"/> Welcome to my academic research site. I am a survey scientist and data scientist, and currently the Director of Research at [Vox Pop Labs](https://www.voxpoplabs.com), the makers of [Vote Compass](https://votecompass.com) and [The Signal](https://www.thestar.com/interactives/canadian-federal-politics-election-forecast/article_1337f598-2b2e-4b63-b5ee-0e923c663892.html). I am also affiliated with the [Laurier Institute for the Study of Public Opinion and Policy (LISPOP)](https://lispop.ca) at [Wilfrid Laurier University](https://www.wlu.ca). You can email me [here](mailto:tgravelle@wlu.ca).
+<img src="/assets/headshot.jpg" alt="Profile Photo" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; float: right; margin-left: 20px; margin-bottom: 20px;"/> Welcome to my academic research site. I am a data scientist and survey scientist, and currently the Director of Research at [Vox Pop Labs](https://www.voxpoplabs.com), the makers of [Vote Compass](https://votecompass.com) and [The Signal](https://www.thestar.com/interactives/canadian-federal-politics-election-forecast/article_1337f598-2b2e-4b63-b5ee-0e923c663892.html). I am also affiliated with the [Laurier Institute for the Study of Public Opinion and Policy (LISPOP)](https://lispop.ca) at [Wilfrid Laurier University](https://www.wlu.ca). You can email me [here](mailto:tgravelle@wlu.ca).
 
 I was previously Senior Manager, Research Science at [SurveyMonkey](https://www.surveymonkey.com). I have also held data science roles with management consulting firms and fintech companies. Earlier in my career, I was a Senior Consultant at [Gallup](https://www.gallup.com).
 
